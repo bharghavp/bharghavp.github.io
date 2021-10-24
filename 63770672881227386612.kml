@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NMCounty</name>
+	
+    <Style id="poly-01579B-2000-127-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-2000-127-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-2000-127">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-2000-127-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-2000-127-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-2000-127-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2000-127-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2000-127">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2000-127-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2000-127-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A52714-2000-127-normal"> 
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A52714-2000-127-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A52714-2000-127">
+	   <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A52714-2000-127-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A52714-2000-127-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://hldprovider411.com/Content/images/redmarker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://hldprovider411.com/Content/images/redmarker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+ 
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://hldprovider411.com/Content/images/greenmarker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://hldprovider411.com/Content/images/greenmarker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  
+
+	<Folder>
+      <name>cb_2018_us_NMcounty_20m</name>
+	  <Placemark><name>Ada</name><description><![CDATA[ <b>Current Status:</b> <br> Stadard provider: 16 <br>  Payor provider: 0 <br> HLDProvider: 753 <br> ]]>
+	  </description><styleUrl>#poly-A52714-2000-127</styleUrl><ExtendedData><Data name="description"><value> Name:  Ada 
+ StandardProvider:  16 
+ PayorProvider:  0 
+ HDLProvider:  753</value></Data><Data name="StandardProvider"><value>16</value></Data><Data name="PayorProvider"><value>0</value></Data>
+ <Data name="HLDProvider"><value>753</value></Data><Data name="NAME"><value>Ada</value></Data></ExtendedData><Polygon><extrude>0</extrude><tessellate>1
+ </tessellate><altitudeMode>clampToGround</altitudeMode>
+ <outerBoundaryIs><LinearRing>
+ <coordinates>-116.512502,43.807161,0.0 -116.513123,43.634183,0.0 -116.473597,43.459218,0.0 -116.511897,43.29052,0.0 -116.425275,43.293543,0.0 -116.385955,43.193577,0.0 -116.266207,43.112269,0.0 -115.978651,43.113432,0.0 -115.974881,43.36502,0.0 -115.975719,43.591438,0.0 -115.992799,43.595085,0.0 -116.263384,43.793792,0.0 -116.282019,43.807365,0.0 -116.512502,43.807161,0.0</coordinates> </LinearRing> </outerBoundaryIs> </Polygon></Placemark>
+ 
+ <Placemark><name> Andrew D. Michaels</name><value>753</value><styleUrl>#icon-1899-0288D1</styleUrl><ExtendedData><Data name="NAME"><value> Andrew D. Michaels</value></Data>
+ <Data name="NPI"><value>1588618250</value></Data><Data name="Address"><value>1055 N Curtis Rd</value></Data></ExtendedData>
+ <Point> <coordinates>-116.2558421,43.6132915,0</coordinates></Point></Placemark>
+ 
+  </Folder>
+  </Document>
+</kml>
