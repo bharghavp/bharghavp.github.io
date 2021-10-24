@@ -191,6 +191,14 @@
 	  <Data name="value"><value>753</value></Data>
 	 </ExtendedData>
  <Point> <coordinates>-116.2558421,43.6132915,0</coordinates></Point></Placemark>
+		
+		
+ <Placemark><name> team 12</name><value>753</value><styleUrl>#icon-1899-0288D1</styleUrl>
+ <ExtendedData><Data name="NAME"><value> team 12</value></Data>
+ <Data name="NPI"><value>1588618250</value></Data><Data name="Address"><value>1055 N Curtis Rd</value></Data>
+	  <Data name="value"><value>753</value></Data>
+	 </ExtendedData>
+ <Point> <coordinates>-116.2558420,43.6132914,0</coordinates></Point></Placemark>
  
   </Folder>
   </Document>
